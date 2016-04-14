@@ -8,6 +8,14 @@
     <title>SynIgniter</title>
 
 
+    <!-- Boostrap | Bootswatch 
+         
+         Choose a a theme and just replace the theme's name at link below.
+         
+         See all themes in: https://www.bootstrapcdn.com/bootswatch/
+    -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/flatly/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
